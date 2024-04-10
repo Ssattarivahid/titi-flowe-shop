@@ -1,0 +1,180 @@
+@media screen and ( min-width:770px) and (max-width: 925px ) {
+    .nav {
+        width: 100%;
+        height: 150px;
+    }
+    .nav-div-1 {
+        width: 50%;
+    }
+    .nav-div-2 {
+        width: 50%;
+    }
+    .nav-logo-logo {
+        width: 150px;
+        height: 150px;
+    }
+    .navbar ul a {
+        font-size: 28px;
+        margin: 25px 10px ;
+        padding:  10px 25px ;
+    }
+
+}
+@media screen and ( min-width:660px) and (max-width: 770px ) {
+    .nav {
+        width: 100%;
+        height: 150px;
+    }
+    .nav-div-1 {
+        width: 50%;
+    }
+    .nav-div-2 {
+        width: 50%;
+    }
+    .nav-logo-logo {
+        width: 150px;
+        height: 150px;
+    }
+    .navbar ul a {
+        font-size: 22px;
+        margin: 25px 10px ;
+        padding:  10px 15px ;
+    }
+
+}
+@media screen and ( min-width:569px) and (max-width: 660px ) {
+    .nav {
+        width: 100%;
+        height: 150px;
+    }
+    .nav-div-1 {
+        width: 50%;
+    }
+    .nav-div-2 {
+        width: 50%;
+    }
+    .nav-logo-logo {
+        width: 150px;
+        height: 150px;
+    }
+    .navbar ul a {
+        font-size: 22px;
+        margin: 25px 10px ;
+        padding:  10px 15px ;
+    }
+
+}
+@media screen and ( min-width:427px) and (max-width: 569px ) {
+    .nav {
+        width: 100%;
+        height: 100px;
+    }
+    .nav-div-1 {
+        width: 50%;
+    }
+    .nav-div-2 {
+        width: 50%;
+    }
+    .nav-logo-logo {
+        width: 100px;
+        height: 100px;
+    }
+    .navbar ul a {
+        font-size: 12px;
+        margin: 10px 1px ;
+        padding:  10px 15px ;
+    }
+
+}
+@media screen and ( min-width:325px) and (max-width: 426px ) {
+    .nav {
+        width: 100%;
+        height: 100px;
+    }
+    .nav-div-1 {
+        width: 50%;
+    }
+    .nav-div-2 {
+        width: 50%;
+    }
+    .nav-logo-logo {
+        width: 100px;
+        height: 100px;
+    }
+    .navbar ul a {
+        font-size: 12px;
+        margin: 10px 1px ;
+        padding:  10px 15px ;
+    }
+    .section-1 p {
+        font-size: 28px;
+        font-family: lalezar;
+        margin: 100px 0 ;
+    }
+    .section-1 p span {
+        color: darkred;
+        font-size: 14px;
+    }
+}
+@media screen and ( min-width:319px) and (max-width: 360px ) {
+    .nav {
+        width: 100%;
+        height: 100px;
+    }
+    .nav-div-1 {
+        width: 50%;
+    }
+    .nav-div-2 {
+        width: 50%;
+    }
+    .nav-logo-logo {
+        width: 100px;
+        height: 100px;
+    }
+    .navbar ul a {
+        width: 30px;
+        font-size: 10px;
+        margin: 10px 1px ;
+        padding:  10px 15px ;
+    }
+    .section-1 p {
+        font-size: 30px;
+        font-family: lalezar;
+        margin: 100px 0 ;
+    }
+    .section-1 p span {
+        color: darkred;
+        font-size: 15px;
+    }
+}
+@media screen and ( min-width:300px) and (max-width: 318px ) {
+    .nav {
+        width: 100%;
+        height: 100px;
+    }
+    .nav-div-1 {
+        width: 40%;
+    }
+    .nav-div-2 {
+        width: 60%;
+    }
+    .nav-logo-logo {
+        width: 100px;
+        height: 100px;
+    }
+    .navbar ul a {
+        width: 30px;
+        font-size: 10px;
+        margin: 10px 1px ;
+        padding:  10px 10px ;
+    }
+    .section-1 p {
+        font-size: 20px;
+        font-family: lalezar;
+        margin: 100px 0 ;
+    }
+    .section-1 p span {
+        color: darkred;
+        font-size: 10px;
+    }
+}
